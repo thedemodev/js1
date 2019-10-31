@@ -1,0 +1,10 @@
+.Announcement {
+  &__message-header {
+    // Center content
+    justify-content: center;
+  }
+
+  &__text {
+    margin-right: 1rem;
+  }
+}
